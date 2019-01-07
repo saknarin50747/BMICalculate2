@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMICalculate</string>
+    <string name="body_mass_index">Body Mass Index</string>
+</resources>
